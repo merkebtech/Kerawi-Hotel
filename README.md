@@ -64,15 +64,20 @@ python main.py
 **Connect with our team and explore our work:**
 
 - **Live Website:** [Hotel Site Live🌐](https://kerawi-hotel.onrender.com/)
-- **Team Portfolio:** [Portfolio🌐](https://your-team-portfolio.com)
-- **Team GitHub Repository:** [github](https://github.com/merkebtech)
+- **Team Portfolio:** [Portfolio🌐](https://merkebtech.com/)
+- **Team GitHub Repository:** [github](https://github.com/)
 - **Team LinkedIn:** [linkedin](https://linkedin.com/in/ourteam)
 
 ---
 
 Feel free to reach out for collaboration, feedback, or any questions!
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
-[linkedin]: https://linkedin.com/in/ourteam
-[github]: https://github.com/merkebtech
+<p align="left">
+  <a href="https://linkedin.com/in/ourteam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nextleaptech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>

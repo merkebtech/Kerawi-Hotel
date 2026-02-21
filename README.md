@@ -65,7 +65,7 @@ python main.py
 
 - **Live Website:** [Hotel Site Live🌐](https://kerawi-hotel.onrender.com/)
 - **Team Portfolio:** [Portfolio🌐](https://merkebtech.com/)
-- **Team GitHub Repository:** [github](https://github.com/)
+- **Team GitHub Repository:** [github](https://github.com/merkebtech)
 - **Team LinkedIn:** [linkedin](https://linkedin.com/in/ourteam)
 
 ---
@@ -77,7 +77,11 @@ Feel free to reach out for collaboration, feedback, or any questions!
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/nextleaptech" target="_blank">
+  <a href="https://github.com/merkebtech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://merkebtech.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_🚢-1E90FF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>
